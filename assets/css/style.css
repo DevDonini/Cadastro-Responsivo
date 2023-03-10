@@ -12,14 +12,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #0c0ce94d;
+    background: #020129bb;
 }
 
 .container {
-    width: 80%;
-    height: 80vh;
+    width: 79%;
+    height: 68vh;
     display: flex;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.212);
 }
 
 .form-image {
@@ -27,12 +27,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #fde3a7d7;
-    padding: 1rem;
+    background-color: #0f37a538;
+    padding: 0.5rem;
 }
 
 .form-image img {
-    width: 31rem;
+     width: 100%;
+     height: 100%;
+    
 }
 
 .form {
@@ -65,7 +67,7 @@ body {
 }
 
 .login-button button:hover {
-    background-color: #6b63fff1;
+    background-color: #1c13c9f1;
 }
 
 .login-button button a {
@@ -96,6 +98,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-bottom: 1.1rem;
+    
 }
 
 .input-box input {
@@ -103,12 +106,12 @@ body {
     padding: 0.8rem 1.2rem;
     border: none;
     border-radius: 10px;
-    box-shadow: 1px 1px 6px #0000001c;
+    box-shadow: 5px 5px 6px #0000001c;
     font-size: 0.8rem;
 }
 
 .input-box input:hover {
-    background-color: #eeeeee75;
+    background-color: #eeeeee98;
 }
 
 .input-box input:focus-visible {
@@ -159,7 +162,7 @@ body {
 }
 
 .continue-button button:hover {
-    background-color: #6b63fff1;
+    background-color: #1c13c9f1;
 }
 
 .continue-button button a {
