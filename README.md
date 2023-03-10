@@ -8,4 +8,6 @@ Para aprender a montar a um formulário de cadastro responsivo que é muito fund
 ## [🛠Assistir](https://www.youtube.com/watch?v=zWw0npNDkVM)
 
 # Preview
-![[PASSO-A-PASSO])
+![[PASSO-A-PASSO]
+![Captura de tela 2023-03-10 141327](https://user-images.githubusercontent.com/106184297/224381896-19db7372-db11-4ed6-95bb-40e54d06ca5b.png)
+)
