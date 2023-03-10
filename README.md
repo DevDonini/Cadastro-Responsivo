@@ -10,5 +10,6 @@ Muito Obrigado pelo Apoio #LarissaKich
 ## [🛠Assistir](https://www.youtube.com/watch?v=zWw0npNDkVM)
 
 # Preview
-![Captura de tela 2023-03-10 141327](https://user-images.githubusercontent.com/106184297/224381896-19db7372-db11-4ed6-95bb-40e54d06ca5b.png)
+![Captura de tela 2023-03-10 141327](https://user-images.githubusercontent.com/106184297/224384054-42e954f7-94c2-4ec1-9423-639a85f59674.png)
+
 
